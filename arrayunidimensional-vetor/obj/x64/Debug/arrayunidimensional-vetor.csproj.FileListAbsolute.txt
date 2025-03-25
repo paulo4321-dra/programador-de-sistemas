@@ -1,0 +1,10 @@
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe.config
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\bin\x64\Debug\arrayunidimensional-vetor.pdb
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.AssemblyReference.cache
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.frmVetor.resources
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional_vetor.Properties.Resources.resources
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.GenerateResource.cache
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.exe
+C:\Users\paulo.franca\source\programadordesistemas\arrayunidimensional-vetor\obj\x64\Debug\arrayunidimensional-vetor.pdb
